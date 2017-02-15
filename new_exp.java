@@ -1,4 +1,4 @@
-/** Navidur Rahman CSCI: lab-B
+/** 
  * This Program asks the user Temperature in fahrenheit and converts to centigrade.
  *It also check if the value entered is number and round the number to make it look cleaner. 
  * The program works continuously unless the user type STOP in the input.
